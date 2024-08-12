@@ -21,4 +21,4 @@ sudo chmod +x gsp183.sh
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/cloudstars24)
 
-# [QUICK GCP LAB](https://www.youtube.com/@cloud-stars)
+# [CLOUD STARS](https://www.youtube.com/@cloud-stars)
